@@ -1,4 +1,7 @@
 # code-challenges
 
 ## #1 - TwitterAggregator [repo](https://github.com/vandriesh/twitter-aggregator-code-challenge)
-A small demo - Using the Twitter API to display three columns containing the last 30 tweets from several channels.
+demo app - Using the Twitter API to display three columns containing the last 30 tweets from several channels.
+
+## #2 - CurrencyConverter [repo](https://github.com/vandriesh/currency-converter-code-challenge)
+demo app - Currency converter with a login, conversion and history pages. 
